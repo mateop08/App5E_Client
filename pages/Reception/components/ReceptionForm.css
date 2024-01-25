@@ -1,0 +1,10 @@
+div.seccionCarnet {
+    display: flex;
+}
+div.seccionCarnet span.tituloCarnet {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 18px;
+}
