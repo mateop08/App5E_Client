@@ -11,6 +11,7 @@ After the order its created, the user can add, edit and delete:
 Finally when all the work is done, the user can change the order state to "finalized", and send the client to the check out.
 
 The application controls every action that the user does, there are user groups and it could be assigned functions to every user group, in this way there may be many groups with customize functions. Also all created users must be assigned to an user group.
+
 ![screencapture-192-168-1-200-reception-2024-01-25-12_16_03](https://github.com/mateop08/App5E_Client/assets/44093768/98e281c5-6fff-4675-b7d2-f70d669b1730)
 ![screencapture-192-168-1-200-reception-2024-01-25-12_16_46](https://github.com/mateop08/App5E_Client/assets/44093768/30ec68af-12fa-4dda-9ccb-e9d8808efdaf)
 ![screencapture-192-168-1-200-2024-01-25-12_18_09](https://github.com/mateop08/App5E_Client/assets/44093768/bfa83faa-ecff-478a-b358-d20420a6379d)
