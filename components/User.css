@@ -1,0 +1,7 @@
+div.user {
+    margin-left: 10px;
+}
+
+div.user label.userNameLabel{
+    border-bottom: 1px solid royalblue;
+}

@@ -1,0 +1,37 @@
+nav {
+    background-color: royalblue;
+    color: whitesmoke;
+    position: fixed;
+}
+
+nav ul li:hover {
+    color: #212529;
+}
+
+a.nav-link {
+    color: whitesmoke;
+}
+
+.nav-link:hover {
+    color: black;
+    text-decoration: solid;
+}
+
+a.submenu {
+    color: #212529;
+    background-color: white;
+}
+
+a.submenu:hover {
+    text-decoration: underline;
+}
+
+.dropdown-menu {
+    --bs-dropdown-link-active-bg: white;
+    --bs-dropdown-link-active-color: white;
+    --bs-dropdown-bg: white;
+}
+
+
+
+
